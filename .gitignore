@@ -1,0 +1,4 @@
+.venv
+.*-version
+*.pdf
+.*toml
