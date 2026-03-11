@@ -10,3 +10,7 @@ O objetivo é documentar meu processo de aprendizado, com exemplos práticos em 
 ### Capítulo 1 - Introdução a Algoritmos
 * Pesquisa Binária
 * Anotação Big O
+
+### Capítulo  2 - Ordenação por seleção (*selection sort*)
+* Arrays
+* Listas Linkadas (*linked list*)
