@@ -11,6 +11,10 @@ O objetivo é documentar meu processo de aprendizado, com exemplos práticos em 
 * Pesquisa Binária
 * Anotação Big O
 
-### Capítulo  2 - Ordenação por seleção (*selection sort*)
+### Capítulo 2 - Ordenação por seleção (*selection sort*)
 * Arrays
 * Listas Linkadas (*linked list*)
+
+### Capítulo 3 - Recursão (*recursion*)
+* Caso básico (*base case*) 
+* Caso recursivo (*recursive case*)
