@@ -18,3 +18,5 @@ O objetivo é documentar meu processo de aprendizado, com exemplos práticos em 
 ### Capítulo 3 - Recursão (*recursion*)
 * Caso básico (*base case*) 
 * Caso recursivo (*recursive case*)
+* Empilhamento (*stack*)
+* Call Stack

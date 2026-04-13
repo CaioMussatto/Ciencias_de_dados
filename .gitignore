@@ -2,3 +2,5 @@
 .*-version
 *.pdf
 .*toml
+/IA
+/SQL
